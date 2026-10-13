@@ -19,7 +19,7 @@ Tables: `branches`, `customer_sales`, `users`, `payment_splits`
 Run the SQL scripts in this order:
 1. `Table Creation.sql`
 2. `Rename Column.sql`
-3. `Insert_values.sql` (sample data)
+3. `Imported sample data.csv files
 4. `Modified Triggers.sql`
 
 ## Setup
